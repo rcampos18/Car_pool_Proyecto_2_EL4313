@@ -14,7 +14,9 @@ Profesor: Ernesto Rivera Alvarado
 Integrantes: 
 
 Allan Fauricio Chacón Cordero 2013071786
+
 Mario Alberto Valenciano Rojas 2013099217
+
 Ruth Iveth Campos Artavia 2013026084
 
 ---------------------------------------------------------------------------------------	
