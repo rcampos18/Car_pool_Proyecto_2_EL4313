@@ -1,0 +1,8 @@
+NumPlaca     Tipo            			email
+EA7THE	     Carga_Pesada			tutirica@gmail.com
+154015	     Carga_Liviana			tutirica@gmail.com
+717127       Vehiculo_particular		tutirica@gmail.com
+6505         Transporte_público			tutirica@gmail.com
+161          Policia_(Uso_Oficial)		tutirica@gmail.com
+1467         taxi				tutirica@gmail.com
+178          Policía_de_tránsito(Uso_Oficial)	tutirica@gmail.com
